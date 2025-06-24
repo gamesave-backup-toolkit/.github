@@ -1,5 +1,3 @@
-README.md (RAW, Markdown only):
-
 # 🎮 GameSave Backup Tool
 
 Presenting GameSave Backup Tool, an efficient and secure solution for backing up your game progress data. Ideal for all gamers who want to ensure their progress is safe and retrievable. Leveraging advanced encryption technology, we guarantee the safety and integrity of your game saves.
